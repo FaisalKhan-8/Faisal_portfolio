@@ -25,7 +25,7 @@ function Footer() {
   return (
     <footer>
       <Link
-        href='https://github.com/FaisalKhan-8/E-commerce-Backend'
+        href='https://github.com/FaisalKhan-8/Faisal_portfolio'
         target='_blank'
         className='footer-link'>
         <span className='footer-info'>Designed and Built by Faisal Khan.</span>
