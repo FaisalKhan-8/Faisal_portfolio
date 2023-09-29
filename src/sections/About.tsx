@@ -30,7 +30,7 @@ function About() {
             Bonjour! My name is Faisal Khan, and I am passionate about creating
             digital content for the web. My interest in web development was
             sparked in 2022 when I created my first project called BeatShop, a
-            social media app built using React and Node.js.
+            E-Commerce app built using React and Node.js.
           </p>
           <p className='about-grid-info-text'>
             Fast-forward to today, I specialize in designing and developing
@@ -42,7 +42,7 @@ function About() {
           </p>
 
           <p className='about-grid-info-text'>
-            Additionally, Now i'm gonna start my YouTube channel, To share my
+            Additionally, Now I'm gonna start my YouTube channel, To share my
             knowledge and passion with the world through my YouTube channel,
             where I demonstrate how to build full-stack applications.
           </p>
