@@ -42,5 +42,6 @@ The following technologies were used to create this portfolio:
    yarn start
    ```
 
-
+----------->>>>>>>>> LINK FOR CHECKOUT THE MY PORTFOLIO --------------------------------------<<<<<<<<<<<<<<<
+https://faisal-portfolio-mocha.vercel.app/
 
