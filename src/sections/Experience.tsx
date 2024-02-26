@@ -15,13 +15,13 @@ function Experience() {
   const expereinces = [
     {
       name: 'Campus Credentials',
-      role: 'Front-end developer',
+      role: 'Graphic Designer',
       url: 'https://www.linkedin.com/company/campus-credentials/mycompany/',
       start: 'May 2023',
       end: 'July 2023',
       shortDescription: [
         'I have experience working on a large Team',
-        "Throughout my work, I've utilized various technologies, redux, express, react among others.",
+        "Throughout my work, I've utilized various technologies, Adobe, DaVinci, Figma.",
       ],
     },
    
