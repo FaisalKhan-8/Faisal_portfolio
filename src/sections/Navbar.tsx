@@ -121,7 +121,7 @@ function Navbar() {
             {/* TODO: Add cv here AND also change the link to hosted link  */}
             <Button
               text='Resume'
-              link='https://faisal-portfolio-mocha.vercel.app/resume.pdf'
+              link='https://faisal-portfolio-mocha.vercel.app/Resume.pdf'
             />
           </motion.div>
         </div>
