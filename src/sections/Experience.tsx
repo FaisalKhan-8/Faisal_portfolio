@@ -24,6 +24,17 @@ function Experience() {
         "Throughout my work, I've utilized various technologies, Adobe, DaVinci, Figma.",
       ],
     },
+    {
+      name: 'NerdTech',
+      role: 'Front-End Developer',
+      url: 'https://www.nerdtech.in/',
+      start: 'April 2024',
+      end: 'Continue ',
+      shortDescription: [
+        "As a seasoned front-end developer, I specialize in crafting engaging and user-centric web experiences through the implementation of innovative designs and cutting-edge technologies. With a keen eye for detail and a passion for pixel-perfect execution, I bring creativity and technical expertise to every project I undertake.",
+        "Throughout my internship, I demonstrated a strong commitment to learning and growth, actively seeking feedback and refining my skills in front-end development. I am excited to continue my journey in the field, leveraging my internship experience to tackle new challenges and contribute meaningfully to future projects."
+      ],
+    },
    
   ];
   return (
